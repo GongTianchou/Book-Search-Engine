@@ -26,7 +26,7 @@ SO THAT I can keep a list of books to purchase
 
 ## deployed application
 
-[link]([url](https://booksearch007.herokuapp.com/)){:target="_blank"}
+https://booksearch007.herokuapp.com/
 
 ## Contributor
 
